@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExplicitIntent</string>
+    <string name="this_is_the_first_screen">This is the First Screen</string>
+    <string name="next_screen">Next Screen</string>
+</resources>
